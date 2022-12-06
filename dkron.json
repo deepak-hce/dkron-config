@@ -1,0 +1,5 @@
+{
+ "server": false,
+ "log-level": "debug",
+ "retry-join": ""
+}
