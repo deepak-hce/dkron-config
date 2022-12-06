@@ -1,5 +1,5 @@
 {
  "server": false,
  "log-level": "debug",
- "retry-join": "3.110.143.39:8946"
+ "retry-join": "13.233.83.170:8946"
 }
