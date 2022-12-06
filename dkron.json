@@ -1,7 +1,7 @@
 {
  "server": false,
  "log-level": "debug",
- "retry-join": "13.233.83.170:8946",
+ "retry-join": "13.233.87.106:8946",
  "tags": {
     "agent": "worker"
  }
